@@ -11,7 +11,7 @@ Open the `index.html` file in the browser to view the project.
 Now you have the project code on your computer! ✨
 
 ## Dark Mode
-![Image](https://github.com/user-attachments/assets/564761a4-5377-421e-b9cf-14aa51a945ca)
+![Image](https://github.com/user-attachments/assets/dbd8f433-b572-4512-b78b-002cb8d918c0)
 
 ## Light Mode
-![Image](https://github.com/user-attachments/assets/cd613f69-d42f-43d2-93b4-a1880ba80b01)
+![Image](https://github.com/user-attachments/assets/b073a1b4-a98e-47eb-95c7-7fa63488c81f)
