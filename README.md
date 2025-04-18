@@ -1,6 +1,6 @@
 # Social Links
 ## You can access this link
-https://carolbarbosa101.github.io/recipe/
+https://carolbarbosa101.github.io/social-links/
 ## How to Clone the Repository
 Open the terminal and run the following command:
 ```sh
